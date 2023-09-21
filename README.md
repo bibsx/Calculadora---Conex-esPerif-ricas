@@ -1,2 +1,2 @@
-# Calculadora---Conex-esPerif-ricas
-Calculadora - Js/HTML/CSS
+# Calculadora---ConexoesPerifericas
+Calculadora criada usando Javascript, CSS e HTML
